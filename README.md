@@ -86,7 +86,7 @@ Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
 - [Harmony](https://github.com/developerharmony)
 
 ## İletişim
-Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/kullanici-adi/hava-durumu-uygulamasi/issues) üzerinden iletişime geçebilirsiniz.
+Sorularınız veya önerileriniz için [GitHub Issues](https://github.com/kullanici-adi/Weather-App/issues) üzerinden iletişime geçebilirsiniz.
 
 - GitHub: [developerharmony](https://github.com/developerharmony)
 - E-posta: <a href="mailto:dev.harmony1@gmail.com">Bana Mail Gönderin</a>
