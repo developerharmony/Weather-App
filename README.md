@@ -45,7 +45,7 @@ Uygulama, modern web tarayıcılarında test edilmiştir ve aşağıdaki tarayı
 ### Adımlar
 1. **Depoyu Klonlayın**:
    ```bash
-   git clone https://github.com/kullanici-adi/hava-durumu-uygulamasi.git
+   git clone https://github.com/kullanici-adi/Weather-App.git
    cd hava-durumu-uygulamasi
    ```
 
